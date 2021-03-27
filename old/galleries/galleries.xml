@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<gallery name="ofirmie">
+		<description>
+			<pl>Witamy na stronach Naszej firmy!</pl>
+			<en></en>
+			<de></de>
+		</description>
+		<photo src="ofirmie01.jpg"
+			thumbnail="ofirmie01_thumbnail.png" w="67">
+			<description>
+				<pl>Opis</pl>
+				<en>Description</en>
+				<de></de>
+			</description>
+		</photo>
+		<photo src="ofirmie02.jpg"
+			thumbnail="ofirmie02_thumbnail.png" w="75">
+			<description>
+				<pl>Opis</pl>
+				<en>Description</en>
+				<de></de>
+			</description>
+		</photo>
+		<photo src="ofirmie03.jpg"
+			thumbnail="ofirmie03_thumbnail.png" w="38">
+			<description>
+				<pl>Opis</pl>
+				<en>Description</en>
+				<de></de>
+			</description>
+		</photo>
+		<photo thumbnail="ofirmie04_thumbnail.jpg" src="ofirmie04.jpg" w="79" dflt="true"></photo>
+	</gallery>
+	<gallery name="produkty">
+		<description>
+			<pl>Nasza oferta</pl>
+			<en>Description</en>
+			<de></de>
+		</description>
+		<photo src="pudlaMikrofala01.png"
+			thumbnail="pudlaMikrofala01_thumbnail.png" w="46" dflt="true">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="torby02.png" thumbnail="torby02_thumbnail.png"
+			w="56">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="torby01.png" thumbnail="torby01_thumbnail.png"
+			w="49">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="pudlaLita01.png"
+			thumbnail="pudlaLita01_thumbnail.png" w="26">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="pudlaLita02.png"
+			thumbnail="pudlaLita02_thumbnail.png" w="36">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="pudlaLita03.png"
+			thumbnail="pudlaLita03_thumbnail.png" w="69">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="pudlaLita04.png"
+			thumbnail="pudlaLita04_thumbnail.png" w="22">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="pudlaLita05.png"
+			thumbnail="pudlaLita05_thumbnail.png" w="33">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="pudlaLita06.png"
+			thumbnail="pudlaLita06_thumbnail.png" w="41">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="pudlaLita07.png"
+			thumbnail="pudlaLita07_thumbnail.png" w="17">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="pudlaLita08.png"
+			thumbnail="pudlaLita08_thumbnail.png" w="40">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="pudlaLita09.png"
+			thumbnail="pudlaLita09_thumbnail.png" w="35">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo><photo src="standy01.png" thumbnail="standy01_thumbnail.png" w="67" dflt="true">
+			<description>
+				<de></de>
+				<en></en>
+				<pl></pl></description>
+		</photo></gallery>
+	<gallery name="uslugi">
+		<description>
+			<pl>Nasze usługi</pl>
+			<en></en>
+			<de></de>
+		</description>
+	</gallery>
+	<gallery name="faq">
+		<description>
+			<de></de>
+			<en></en>
+			<pl>Najczęściej zadawane pytania</pl></description>
+
+	</gallery>
+	<gallery name="kaszerowanie">
+		<description>
+			<pl>Kaszerowanie</pl>
+			<en></en>
+			<de></de>
+		</description>
+		<photo src="pudlaMikrofala01.png"
+			thumbnail="pudlaMikrofala01_thumbnail.png" w="46">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="standy01.png" thumbnail="standy01_thumbnail.png"
+			w="67" dflt="true">
+			<description>
+				<de></de>
+				<en></en>
+				<pl></pl></description>
+		</photo></gallery>
+	<gallery name="pudlaTekturaLita">
+		<description>
+			<pl>Pudła z tektury litej</pl>
+			<en>Description</en>
+			<de></de>
+		</description>
+		<photo src="pudlaLita01.png"
+			thumbnail="pudlaLita01_thumbnail.png" w="26" dflt="true">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="pudlaLita02.png" thumbnail="pudlaLita02_thumbnail.png" w="36">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo><photo src="pudlaLita03.png" thumbnail="pudlaLita03_thumbnail.png" w="69">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo><photo src="pudlaLita04.png" thumbnail="pudlaLita04_thumbnail.png" w="22">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo><photo src="pudlaLita05.png" thumbnail="pudlaLita05_thumbnail.png" w="33">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo><photo src="pudlaLita06.png" thumbnail="pudlaLita06_thumbnail.png" w="41">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo><photo src="pudlaLita07.png" thumbnail="pudlaLita07_thumbnail.png" w="17">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo><photo src="pudlaLita08.png" thumbnail="pudlaLita08_thumbnail.png" w="40">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo><photo src="pudlaLita09.png" thumbnail="pudlaLita09_thumbnail.png" w="35">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo></gallery>
+	<gallery name="pudlaMikrofala">
+		<description>
+			<pl>Pudła z tektury wielwarstwowej</pl>
+			<en>Description</en>
+			<de></de>
+		</description>
+		<photo src="pudlaMikrofala01.png"
+			thumbnail="pudlaMikrofala01_thumbnail.png" w="46" dflt="true">
+		</photo>
+	</gallery>
+	<gallery name="standyReklamowe">
+		<description>
+			<pl>standy reklamowe</pl>
+			<en></en>
+			<de></de>
+		</description><photo src="standy01.png" thumbnail="standy01_thumbnail.png" w="67" dflt="true">
+	<description>
+		<pl></pl></description>
+</photo></gallery>
+	<gallery name="ekspozytory">
+		<description>
+			<pl>Ekspozytory</pl>
+			<en></en>
+			<de></de>
+		</description>
+	</gallery>
+	<gallery name="torby">
+		<description>
+			<pl>Torby z papieru i innych materiałów</pl>
+			<en></en>
+			<de></de>
+		</description>
+		<photo src="torby01.png" thumbnail="torby01_thumbnail.png"
+			w="49">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo>
+		<photo src="torby02.png" thumbnail="torby02_thumbnail.png"
+			w="56" dflt="true">
+			<description>
+				<de></de>
+				<pl></pl>
+				<en></en>
+			</description>
+		</photo></gallery>
+	<gallery name="etykiety">
+		<description>
+			<pl>Etykiety do produktów</pl>
+			<en></en>
+			<de></de>
+		</description>
+	</gallery>
+	<gallery name="obwoluty">
+		<description>
+			<pl>Obwoluty</pl>
+			<en></en>
+			<de></de>
+		</description>
+	</gallery>
+	<gallery name="wkladkiUsztywniajace">
+		<description>
+			<pl>Wkładki usztywniające</pl>
+			<en></en>
+			<de></de>
+		</description>
+	</gallery>
+	<gallery name="ksztaltki">
+		<description>
+			<pl>Kształtki</pl>
+			<en></en>
+			<de></de>
+		</description>
+	</gallery>
+
+
+
+</xml>

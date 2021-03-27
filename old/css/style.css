@@ -1,0 +1,253 @@
+body{ 
+	margin:0px;
+	padding:0px;
+	font:11px Tahoma, Arial, Verdana;
+	color:#666666;
+	background-color:#F6F6EE;
+	scrollbar-arrow-color:#3E4B09; 
+	scrollbar-track-color:#F6F6EE; 
+	scrollbar-face-color:#F6F6EE; 
+	scrollbar-highlight-color:#F6F6EE; 
+	scrollbar-3dlight-color:#3E4B09; 
+	scrollbar-darkshadow-color::#3E4B09; 
+	scrollbar-shadow-color:#F6F6EE;
+	text-align: center;
+}
+/* Elementy layoutu */
+#container{
+	width: 771px;
+	margin-top:30px;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 0px;
+	text-align:left;
+	}
+#menu{
+	margin: 0px;
+	padding: 0px;
+	width: 771px;
+
+}
+#main{
+	background: url("../img/MainBackground.jpg") no-repeat;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	width: 771px;
+	height:340px;
+}
+#LeftColumn{
+	float: left;
+	margin: 0px;
+	padding: 0px 0px 0px 46px;
+	width: 316px;
+	}
+#RightColumn{
+	float: right;
+	margin: 0px;
+	background: url("../img/RightColumnBackground.jpg") no-repeat;
+    padding: 0px 29px 0px 0px;
+	width: 332px;
+	height:340px;
+	}
+#footer{
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	width:771px;
+	height: 85px;
+	background: url("../img/stopka.jpg") no-repeat;
+	
+	}
+/* koniec elementów layoutu */
+/* przewijane warstwy*/
+#przyciski{
+	float:left;
+	margin:0px;
+	padding:0px;
+	width:16px;
+	}
+#przycisk_up {
+	float:left;
+	margin:0px;
+	margin-top:40px;
+	padding:0px;
+	height:33px;
+	width:16px;
+}
+#przycisk_down {
+	float:left;
+	margin:0px;
+	margin-top:1px;
+	padding:0px;
+	height:33px;
+	width:16px;
+}
+#hold	{
+	margin:0px;
+	padding:0px;
+	padding-top:40px;
+	position:relative; 
+	overflow:hidden;
+	float:left;
+	width:316px; 
+	height:300px; 
+	z-index:100;
+	}
+#wn	{
+	position:relative;
+	width:316px; 
+	height:260px;
+	margin:0px;
+	padding:0px;
+	clip:rect(0px 300px 260px 0px); 
+	overflow: hidden;	
+	z-index:1; 
+	}
+#lyr1 { 
+	position:relative;
+	padding: 0px 25px 25px 25px;
+	width:300px;
+	z-index:1; 
+	}
+/* koniec przewijanych warstw*/
+
+p{
+	margin: 4px 0px 6px 0px;
+	font:11px Tahoma, Arial, Verdana;
+	color:#666666;
+
+}
+p a{
+	font:11px Tahoma, Arial, Verdana;
+	color:#000000;
+}
+p a:hover{
+	font:11px Tahoma, Arial, Verdana;
+	font-weight:bold;
+	color:#000000;
+
+}
+
+textarea{
+width:280px;
+height:115px;
+font:11px Tahoma, Arial, Verdana;
+background-color:#F6F6EE;
+border: 1px solid #000000;
+margin: 1px 1px 1px 1px;
+}
+input{
+background-color:#F6F6EE;
+height:16px;
+font-size:11px;
+border: 1px solid #000000;
+margin: 1px 1px 1px 1px;
+padding: 0px;
+float:right;
+clear: right;
+width:100px;
+}
+label{
+	margin:0px;
+	padding:0px;
+	font:11px Tahoma, Arial, Verdana;
+	color:#666666;
+	font-style: normal;
+	line-height: 20px;
+	float: left;
+    width:150px;
+}
+.submit{
+	margin:1px;
+	padding:0px;
+	font:11px Tahoma, Arial, Verdana;
+	color:#666666;
+	font-style: normal;
+	line-height: 25px;
+    width:50px;
+}
+
+.warning{
+	font:11px Tahoma, Arial, Verdana;
+	font-style: normal;
+	color: #CC0000;
+}
+
+.tekst {
+	font-family: tahoma, Arial, Verdana;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	text-align: justify;
+	text-indent: 2px;
+	position: static;
+	visibility: visible;
+	overflow: hidden;
+	width: 306px;
+	height: 278px;
+	z-index: 3;
+	float: left;
+	clip:rect(0, 306, 278, 0);
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+.black{
+font:Tahoma, Verdana, Arial, sans-serif;
+color:#000000;
+font-size:10px;
+}
+.black:hover{
+font:Tahoma, Verdana, Arial, sans-serif;
+color:#000000;
+font-size:10px;
+font-weight:bold;
+}
+a{
+font:Tahoma, Verdana, Arial, sans-serif;
+color:#FFFFFF;
+font-size:10px;
+}
+a:hover {
+font:Tahoma, Verdana, Arial, sans-serif;
+color:#FFFFFF;
+font-size:10px;
+font-weight:bold;
+}
+ul{
+
+	font:11px Tahoma, Arial, Verdana;
+	color:#666666;
+}
+ul a{
+	font:11px Tahoma, Arial, Verdana;
+	color:#666666;
+	text-decoration: underline;
+}
+ul a:hover{
+	font:11px Tahoma, Arial, Verdana;
+	color:#666666;
+	text-decoration: underline;
+}
+#tekst_wlasciwy{
+margin:0px;
+padding:0px;
+width:270px;
+text-align:justify;
+}
+#map{
+	background: url("../img/mapBackground.jpg") no-repeat;
+	width:316px;
+	height:340px;
+	margin:0px;
+	padding:0px;
+	padding-top:23px;
+	padding-left:8px;
+	
+}
+#map2{
+	margin:0px;
+	padding:0px;
+	width:297px;
+	height:217px;
+}
