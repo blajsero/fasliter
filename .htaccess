@@ -1,0 +1,13 @@
+#RewriteEngine on
+#RewriteBase /
+
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#DirectoryIndex index.php
+#RewriteRule ^(.*) 2low\index.php
+#RewriteRule (index)/([0-9]+).htm /index.php?id=$2
+#RewriteRule ^([a-zA-Z0-9]+)$ /index.php?strona=$1
+
+#ErrorDocument 404 http://www.fasliter.pl/blad404
+#ErrorDocument 403 http://www.fasliter.pl/blad403
+#ErrorDocument 500 http://www.fasliter.pl/blad500

@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
+<title>FASLITER - Opakowania - Produkacja i projektowanie</title>
+<meta name="Keywords" content="opakowania, pudełka z tektury, stand, torby papierowe, etykiety, ekspozytory, kaszerowanie, sztancowanie, wycinanie, klejenie, projektowanie opakowań, etui, wykrojniki" />
+<meta name="Description" content="FASLITER - Projektowanie i produkcja opakowań. Sztancowanie, klejenie, druk. Prace nietypowe" />
+<script src="jbs/iefix.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="jbs/fasliter.css" />
+<style type="text/css">
+h1, h2, h3, h4, h5, h6, p#one, p#two, p#three, p#four { position: absolute; margin: 0; padding:0; color: #415B50; font-family: Georgia,serif; font-weight: normal; }
+h1 { left: 23px; top: 130px; font-size: 20px; text-align: left; }
+h2 { right: 30px; top: 130px; font-size: 20px; line-height: 20px; text-align: right; }
+h3 { left: 23px; top: 160px; font-size: 20px; line-height: 20px; text-align: left; }
+h4 { right: 30px; top: 178px; font-size: 20px; }
+h5 { left: 23px; top: 208px; font-size: 20px; line-height: 18px; }
+h6 { right: 30px; top: 210px; font-size: 20px; line-height: 18px; text-align: right; }
+p#one { left: 23px; top: 237px; font-size: 19px; line-height: 17px; text-align: left; }
+p#two { right: 30px; top: 255px; font-size: 19px; text-align: right; }
+p#three { right: 30px; top: 296px; font-size: 19px; }
+p#four { left: 23px; top: 281px; font-size: 19px; text-align: left; }
+div#main a:link, a:visited {text-decoration: none; color: #577062;}
+div#main a:hover {color: #577062; }
+</style>
+</head>
+<body onload="ieFix('menu')">
+<div id="all">
+<div id="logo">
+<img title="Fasliter" src="img/logo.gif" alt="Fasliter - Opakowania" border="0" height="92" width="894" usemap="#mapa" />
+<map name="mapa" id="mapa">
+<area shape="rect" coords="600,65,833,90" href="mailto:fasliter@fasliter.com.pl" title="Fasliter" />
+</map>
+</div>
+<div id="menu1">
+<ul id="menu">
+<li><a href="firma.html">O FIRMIE</a></li>
+<li class="sub"><a href="#">OFERTA</a>
+<ul>
+<li><a href="lite.html" title="Pudła i pudełka z tektury litej ">Opakowania z tektury litej</a></li>
+<li><a href="mikro.html" title="Opakowania z mikrofali">Opakowania z mikrofali</a></li>
+<li><a href="standy.html" title="Standy reklamowe">Standy reklamowe</a></li>
+<li><a href="ekspo.html" title="Ekspozytory reklamowe">Ekspozytory</a></li>
+<li><a href="torby.html" title="Torby papierowe">Torby papierowe</a></li>
+<li><a href="obwoluty.html" title="Obwoluty i etykiety">Obwoluty i etykiety</a></li>
+<li><a href="inne.html" title="Inne">Inne</a></li>
+</ul>
+</li>
+<li><a href="uslugi.html">USŁUGI</a></li>
+<li><a href="faq.html">FAQ</a></li>
+<li><a href="kontakt.html">KONTAKT</a></li>
+</ul>
+</div>
+<div id="main"><img border="0" alt="FASLITER - Opakowania - Produkacja i projektowanie" src="img/main.jpg" width="894" height="498" />
+<a href="mikro.html"><h1 style="font: normal 20px Georgia; color: #415B50;">pudła z mikrofali</h1></a>
+<a href="lite.html"><h2>pudła i pudełka<br />z tektury litej</h2></a>
+<a href="standy.html"><h3>standy<br />reklamowe</h3></a>
+<a href="ekspo.html"><h4>ekspozytory</h4></a>
+<a href="uslugi.html"><h5>sztancowanie</h5></a>
+<a href="uslugi.html"><h6>projektowanie<br />opakowań</h6></a>
+<a href="obwoluty.html"><p id="one">obwoluty,<br />etykiety</p></a>
+<a href="torby.html"><p id="two">torby<br />papierowe</p></a>
+<a href="uslugi.html"><p id="three">druk</p></a>
+<a href="uslugi.html"><p id="four">klejenie</p></a>
+</div>
+<div id="bottom">Copyright &copy; 2012 FASLITER S.C. OPAKOWANIA KARTONOWE - All rights reserved - Aktualizacja: 28-III-2012 </div>
+</div>
+</body>
+</html>

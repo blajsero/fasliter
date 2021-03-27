@@ -1,0 +1,146 @@
+html, body {
+    background: #002420; 
+    margin: 0; 
+    padding: 0; 
+    text-align: center; 
+}
+
+#menu1 {
+    margin: 0 auto 5px auto; 
+    width: 878px; 
+    height: 27px; 
+    border: 0px solid Yellow; 
+}
+
+#logo {
+    margin: 0 auto 6px auto; 
+    width: 894px; 
+    height: 109px; 
+    border: 0px solid red; 
+    background: #00624F; }
+
+#logo img {
+    border: none;
+}
+
+#error img {
+    border: none;
+    margin: 0;
+}
+
+#error { 
+    margin: 0 auto 0 auto; 
+    width: 894px; 
+    border: 0px solid black; 
+    background: #002420; 
+    font: bold 16px arial,sans-serif; 
+    color: #B8D0D1;
+}
+
+.lewa {
+    overflow: hidden;
+
+    position: relative;
+    float: left;
+    background-color: #FFFF00;
+}
+
+.prawa {
+    overflow: hidden;
+
+    float: right;
+    position: relative;
+    background-color: #D0120D;
+}
+
+#main { 
+    margin: 0 auto 0 auto; 
+    width: 894px; 
+    height: 498px; 
+    border: 0px solid black; 
+    background: #002420; 
+    font: bold 16px arial,sans-serif; 
+    color: #B8D0D1;
+}
+
+#bottom {
+    position: relative;
+    margin: 0 auto 6px auto; 
+    width: 898px; 
+    height: 27px; 
+    border-top: 1px solid #526D5A; 
+    background:#002420; 
+    font: normal 11px/18px verdana,sans-serif; 
+    color:#809984;  
+}
+
+#menu {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+#menu ul {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+#menu li {
+    float: left; 
+    background: #C1C1C1; 
+    margin: 1px 5px 0 0; 
+    position: relative; 
+}
+
+#menu li.sub {
+    background:#c1c1c1;
+}
+
+#menu table {
+    border-collapse:collapse; 
+    position:absolute; 
+    top:0; 
+    left:0; 
+    z-index:80; 
+    font-size:1em; 
+}
+
+#menu li a {
+    display:block; 
+    color:#004040; 
+    height:25px; 
+    font-family: verdana, sans-serif; 
+    font-size:11px; 
+    line-height:24px; 
+    width:170px; 
+    text-decoration:none; 
+    text-align:center;
+}
+
+#menu :hover {
+    color: #D0120D; 
+    background: #e1e1e1;
+}
+
+#menu :hover > a {
+    color: #D0120D; 
+    background: #E1E1E1;
+}
+
+#menu ul, #menu :hover ul ul, #menu :hover ul :hover ul ul, #menu :hover ul :hover ul ul.left {
+    position: absolute; 
+    left:-9999px; 
+    width:138px;
+}
+
+#menu :hover ul {
+    left: 0;
+    top: 25px; 
+    background: url(transparent.gif);}
+
+#menu :hover ul :hover ul, #menu :hover ul :hover ul :hover ul {
+    padding: 0 3px; 
+    left: 125px; 
+    top: -3px;
+}
